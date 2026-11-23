@@ -1,0 +1,33 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+local.properties
+
+# Build files
+/build/
+*/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Android Studio settings
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Signing files - never upload
+*.jks
+*.keystore
+keystore.properties
+
+# Generated files
+*.apk
+*.aab
+
+# Operating system
+.DS_Store
+Thumbs.db
